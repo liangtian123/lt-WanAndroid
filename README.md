@@ -1,7 +1,7 @@
 <h1 align="center">lt-WanAndroid</h1>
 ### 用心制作一款性能不错的 http://www.wanandroid.com/ 客户端，目前已初见雏形，后面会进一步打磨成精(*╹▽╹*)，如果您觉得还不错的话，就点个Star吧~(持续打磨中~，敬请关注)
 <div align="center">
-<img src="https://i.imgur.com/q0dl7sM.jpg">
+<img src="https://i.imgur.com/20IhMsm.jpg">
 </div>
 
 
