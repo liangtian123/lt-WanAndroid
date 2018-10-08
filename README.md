@@ -1,12 +1,12 @@
 <h1 align="center">lt-WanAndroid</h1>
 ### 用心制作一款性能不错的 http://www.wanandroid.com/ 客户端，目前已初见雏形，后面会进一步打磨成精(*╹▽╹*)，如果您觉得还不错的话，就点个Star吧~(持续打磨中~，敬请关注)
 <div align="center">
-<img src="https://i.imgur.com/OiL2W1u.jpg">
+<img src="https://i.imgur.com/q0dl7sM.jpg">
 </div>
 
 
 ## 介绍
-该项目是实现“玩安卓”平台（www.wanandroid.com）移动客户端，目前已完成该站点的大部分模块，包括登陆退出、内容展示、注册等等；
+该项目是实现“玩安卓”平台（[www.wanandroid.com](http://www.wanandroid.com)）移动客户端，目前已完成该站点的大部分模块，包括登陆退出、内容展示、注册等等；
 
 ## 预览
 <div align="center">
@@ -77,6 +77,6 @@
 ### 还有上面没列举的一些优秀的第三方开源库，感谢开源，愿我们一同成长，此外，还参考了不少国内外牛人的项目，感谢开源！
 
 ## 关于作者
-* Email： <78602765@qq.com>
+* Email： <androidlt@163.com>
 * liangtian
 * 有任何建议或者使用中遇到问题都可以给我发邮件
