@@ -9,7 +9,7 @@
 
 
 ## 使用方法
-* 在合适的地方调用display方法即可
+* 在合适的地方调用displa方法即可
 * myBitmapUtils.display(imgeview,"url");
 
 
